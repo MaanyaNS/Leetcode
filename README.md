@@ -7,6 +7,7 @@
 | [0136-single-number](https://github.com/MaanyaNS/Leetcode/tree/main/0136-single-number/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/MaanyaNS/Leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/MaanyaNS/Leetcode/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/MaanyaNS/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -30,6 +31,7 @@
 | [1137-n-th-tribonacci-number](https://github.com/MaanyaNS/Leetcode/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/MaanyaNS/Leetcode/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/MaanyaNS/Leetcode/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/MaanyaNS/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2180-count-integers-with-even-digit-sum](https://github.com/MaanyaNS/Leetcode/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 | [3099-harshad-number](https://github.com/MaanyaNS/Leetcode/tree/main/3099-harshad-number/) | Easy |
 ## Simulation
@@ -71,4 +73,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/MaanyaNS/Leetcode/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/MaanyaNS/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+## Euclidean Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/MaanyaNS/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+## Greatest Common Divisor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/MaanyaNS/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 <!---LeetCode Topics End-->
