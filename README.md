@@ -22,6 +22,7 @@
 | [0231-power-of-two](https://github.com/MaanyaNS/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0263-ugly-number](https://github.com/MaanyaNS/Leetcode/tree/main/0263-ugly-number/) | Easy |
 | [0326-power-of-three](https://github.com/MaanyaNS/Leetcode/tree/main/0326-power-of-three/) | Easy |
+| [0509-fibonacci-number](https://github.com/MaanyaNS/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/MaanyaNS/Leetcode/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [2180-count-integers-with-even-digit-sum](https://github.com/MaanyaNS/Leetcode/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 | [3099-harshad-number](https://github.com/MaanyaNS/Leetcode/tree/main/3099-harshad-number/) | Easy |
@@ -34,6 +35,7 @@
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/MaanyaNS/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/MaanyaNS/Leetcode/tree/main/0326-power-of-three/) | Easy |
+| [0509-fibonacci-number](https://github.com/MaanyaNS/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -46,4 +48,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/MaanyaNS/Leetcode/tree/main/0202-happy-number/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/MaanyaNS/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/MaanyaNS/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
