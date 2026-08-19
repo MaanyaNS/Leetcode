@@ -23,6 +23,7 @@
 | [0263-ugly-number](https://github.com/MaanyaNS/Leetcode/tree/main/0263-ugly-number/) | Easy |
 | [0326-power-of-three](https://github.com/MaanyaNS/Leetcode/tree/main/0326-power-of-three/) | Easy |
 | [0509-fibonacci-number](https://github.com/MaanyaNS/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
+| [1137-n-th-tribonacci-number](https://github.com/MaanyaNS/Leetcode/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/MaanyaNS/Leetcode/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [2180-count-integers-with-even-digit-sum](https://github.com/MaanyaNS/Leetcode/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 | [3099-harshad-number](https://github.com/MaanyaNS/Leetcode/tree/main/3099-harshad-number/) | Easy |
@@ -52,8 +53,10 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/MaanyaNS/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
+| [1137-n-th-tribonacci-number](https://github.com/MaanyaNS/Leetcode/tree/main/1137-n-th-tribonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/MaanyaNS/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
+| [1137-n-th-tribonacci-number](https://github.com/MaanyaNS/Leetcode/tree/main/1137-n-th-tribonacci-number/) | Easy |
 <!---LeetCode Topics End-->
