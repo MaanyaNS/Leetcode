@@ -17,6 +17,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0263-ugly-number](https://github.com/MaanyaNS/Leetcode/tree/main/0263-ugly-number/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/MaanyaNS/Leetcode/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [2180-count-integers-with-even-digit-sum](https://github.com/MaanyaNS/Leetcode/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 | [3099-harshad-number](https://github.com/MaanyaNS/Leetcode/tree/main/3099-harshad-number/) | Easy |
