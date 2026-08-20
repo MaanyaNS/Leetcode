@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/MaanyaNS/Leetcode/tree/main/0136-single-number/) | Easy |
+| [0215-kth-largest-element-in-an-array](https://github.com/MaanyaNS/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/MaanyaNS/Leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/MaanyaNS/Leetcode/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MaanyaNS/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -85,4 +86,20 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MaanyaNS/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/MaanyaNS/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/MaanyaNS/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/MaanyaNS/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/MaanyaNS/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 <!---LeetCode Topics End-->
